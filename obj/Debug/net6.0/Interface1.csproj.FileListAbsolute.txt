@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\Interface1\bin\Debug\net6.0\Interface1.exe
+D:\cat32tw\Desktop\Interface1\bin\Debug\net6.0\Interface1.deps.json
+D:\cat32tw\Desktop\Interface1\bin\Debug\net6.0\Interface1.runtimeconfig.json
+D:\cat32tw\Desktop\Interface1\bin\Debug\net6.0\Interface1.dll
+D:\cat32tw\Desktop\Interface1\bin\Debug\net6.0\ref\Interface1.dll
+D:\cat32tw\Desktop\Interface1\bin\Debug\net6.0\Interface1.pdb
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.AssemblyInfo.cs
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.dll
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\ref\Interface1.dll
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.pdb
+D:\cat32tw\Desktop\Interface1\obj\Debug\net6.0\Interface1.genruntimeconfig.cache
